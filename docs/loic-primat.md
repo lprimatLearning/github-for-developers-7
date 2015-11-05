@@ -6,4 +6,5 @@
 * Favorite Food :Burger
 * Hobby : Coding
 * Favorite Color : Cyan
+* Pet : Cat
 
